@@ -45,3 +45,9 @@ Upon successfully completing these courses you will have done several hands-on a
 - Discuss the data that you will use to solve the problem.
 - Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods (Week 1)
 
+### Week 5 - Capstone Project (Cont'd)
+- Carry out the remaining work to complete the capstone project.
+- Submit a link to your project notebook and a complete project report.
+- Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods (Week 2)
+
+
