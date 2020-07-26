@@ -43,6 +43,10 @@ Upon successfully completing these courses you will have done several hands-on a
 - Lab: Segmenting and Clustering Neighborhoods in New York City
 - Peer-review Assignment: Segmenting and Clustering Neighborhoods in Toronto
 
+### Week 4 - Capstone Project
+- Define a problem for your capstone project.
+- Discuss the data that you will use to solve the problem.
+- Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods (Week 1)
 
 ### Week 5 - Capstone Project (Cont'd)
 - Carry out the remaining work to complete the capstone project.
