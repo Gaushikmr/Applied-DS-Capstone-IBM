@@ -22,6 +22,17 @@ Upon successfully completing these courses you will have done several hands-on a
 - Signing-up for a Watson Studio Account.
 - Peer-review Assignment: Capstone Project Notebook.
 
+### Week 2 - Foursquare API
+- Learning about Foursquare and its API.
+- Learning how to create a Foursquare developer account.
+- Creating a Foursquare developer account.
+- Learning how to use the Foursquare API to search for a specific type of venues, explore a given venue, and search for trending venue around a location.
+- Completing a lab to better understand how to make calls to the Foursquare API and retrieve location data from its database.
+- Getting Foursquare API Credentials
+- Using Foursquare API
+- Lab: Foursquare API
+- Quiz: Foursquare API
+
 ### Week 3 - Neighborhood Segmentation and Clustering
 - Learning about clustering and k-means clustering in particular.
 - Learning how to use the Foursquare API and clustering to segment and cluster the neighborhoods in New York City.
